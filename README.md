@@ -1,5 +1,5 @@
 
-# Javascript - Uso de Closures, IIFE, Contexto this e Objeto Proxy _this_closures_iife_proxy
+# Javascript - Uso de Closures, IIFE, Contexto this e Objeto Proxy
 
 Conteúdo do Erick Wendel na Live - Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS - Pré #SemanaJSExpert
 [https://www.youtube.com/watch?v=tGSpqjerR_U&feature=youtu.be](https://www.youtube.com/watch?v=tGSpqjerR_U&feature=youtu.be)

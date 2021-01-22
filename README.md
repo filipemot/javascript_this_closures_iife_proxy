@@ -2,6 +2,7 @@
 # Javascript - Uso de Closures, IIFE, Contexto this e Objeto Proxy
 
 Conteúdo do Erick Wendel na Live - Entendendo o contexto this, Closures, IIFE e o Objeto Proxy em JS - Pré #SemanaJSExpert
+
 [https://www.youtube.com/watch?v=tGSpqjerR_U&feature=youtu.be](https://www.youtube.com/watch?v=tGSpqjerR_U&feature=youtu.be)
 
  - **Closures** - Utilizado para criar novos contextos - a primeira fez que você chama, ele não executa, ele apenas "guarda" a assinatura, para a próxima vez ele chamar
